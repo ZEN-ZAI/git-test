@@ -58,3 +58,5 @@ ___test___   -->
 | :-:|:-: |:-: |
 | content | content | content |
 | content | content | content |
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nPvuNsRccVw/0.jpg)](http://www.youtube.com/watch?v=nPvuNsRccVw)
