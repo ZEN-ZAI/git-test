@@ -47,14 +47,14 @@ ___test___   -->
 - [ ] ทำการบ้าน Oak code kata  
 - [X] งดนอนเช้า
 
-- content
+<!-- - content
 - content
 - content  
     - child
         - child
-            - child
+            - child -->
 
-| header 1 | header 2 |
-| :-:|:-: |
-| content | content |
-| content | content |
+| header 1 | header 2 | header 3 |
+| :-:|:-: |:-: |
+| content | content | content |
+| content | content | content |
