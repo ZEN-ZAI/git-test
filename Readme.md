@@ -54,7 +54,7 @@ ___test___   -->
         - child
             - child
 
-header 1 | header 2
-:-:|:-:
-content | content
-content | content
+| header 1 | header 2 |
+| :-:|:-: |
+| content | content |
+| content | content |
